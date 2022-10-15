@@ -20,7 +20,7 @@ Sample inputs and outputs:
 • "choosemeeky and tuition-free" becomes "ch2osem2eky and tuition-fr2e" 
 
 
-#Algorithm 2:  Finding Target Substrings 
+# Algorithm 2:  Finding Target Substrings 
 
 Assume that you are given two arrays of items. The first array is a single concatenation of all 
 cities in California. The second array contains names of some real or imaginary cities, that 
@@ -38,7 +38,7 @@ In the example above, rialto is the first word, and can be found at index array_
 words are in small letters.  
 
 
-#Algorithm 3:  Merging Techniques  
+# Algorithm 3:  Merging Techniques  
 
 You are provided with grades of students from various sections of CPSC 120. The grading 
 system allows the use of negative points.  The grades appear to be sorted: the first item in 
