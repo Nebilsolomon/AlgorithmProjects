@@ -1,0 +1,25 @@
+Note: All Algorithm will be in Algorithm.cpp file. I made each function for each algorithm.
+
+
+Algorithm1 function time complexity
+
+Complexity = O(3 + 3n + 9) = o(n) efficiency class
+
+
+
+
+Algorithm2 function time complexity
+
+Complexity = O(2n^2 + 2n^3  + 2n^2) = o(n^3) efficiency class
+
+
+
+Algorithm3 function time complexity
+
+Complexity = O(1 + 4n^4 + n^2) = o(n^4 ) efficiency class
+
+
+
+
+
+
